@@ -10,3 +10,4 @@ Endereco: Rua Marechal Deodoro n 23 ap 80
 
 Telefone: 48 33337777 ou 99998888
 
+Inserir CPF: 78945612332

@@ -1,2 +1,5 @@
+
 Criando arquivo e sincronizando com bash no local através do PUSH.
 Editando arquivo
+
+Continuando edição do arquivo pelo local.

@@ -1,0 +1,1 @@
+Criando arquivo e sincronizando com bash no local através do PUSH.
